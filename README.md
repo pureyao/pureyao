@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pureYao&show_icons=true&theme=radical)
+![pureYao's GitHub stats](https://github-readme-stats.vercel.app/api?username=pureYao)
