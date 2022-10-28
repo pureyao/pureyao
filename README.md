@@ -1,4 +1,4 @@
-![pureYao's GitHub stats](https://github-readme-stats.vercel.app/api?username=pureYao)
+![pureYao's GitHub stats](https://github-readme-stats.vercel.app/api?username=pureYao&show_icons=true&theme=transparent)
 
 # :keyboard::monkey_face: Code with
 <div>
