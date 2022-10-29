@@ -11,6 +11,7 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="GNU Bash" src="https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=GNU Bash&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
   <p></p>
@@ -21,6 +22,7 @@
   <img alt="3DS" src="https://img.shields.io/badge/-3DS-D12228?style=flat-square&logo=Nintendo 3DS&logoColor=white" />
   <img alt="Apple" src="https://img.shields.io/badge/-Apple-000000?style=flat-square&logo=Apple&logoColor=white" />
   <img alt="Bilibili" src="https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=white" /> 
+  <img alt="McDonald's" src="https://img.shields.io/badge/-McDonald-FBC817?style=flat-square&logo=McDonald's&logoColor=white" /> 
   <p></p>
 </div>
 
