@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=50&pause=1000&color=FFF8EA&background=FC909F&center=true&vCenter=true&width=1100&height=200&lines=Hello%2C+I'm+pureYao;Enjoy+Code;Enjoy+Life)](https://git.io/typing-svg)
 
-## :monkey_face: :keyboard:  My tools
+## :keyboard:  My Tools
 <div>
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img alt="IDEA" src="https://img.shields.io/badge/-IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white" />
@@ -13,6 +13,14 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+  <p></p>
+</div>
+
+## :space_invader: My Favorite
+<div>
+  <img alt="3DS" src="https://img.shields.io/badge/-3DS-D12228?style=flat-square&logo=Nintendo 3DS&logoColor=white" />
+  <img alt="Apple" src="https://img.shields.io/badge/-Apple-000000?style=flat-square&logo=Apple&logoColor=white" />
+  <img alt="Bilibili" src="https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=Bilibili&logoColor=white" /> 
   <p></p>
 </div>
 
