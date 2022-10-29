@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=50&pause=1000&color=FFF8EA&background=FC909F&center=true&vCenter=true&width=1100&height=200&lines=Hello%2C+I'm+pureYao;Enjoy+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=50&pause=1000&color=FFF8EA&background=FC909F&center=true&vCenter=true&width=1100&height=200&lines=Hello%2C+I'm+pureYao;Enjoy+Code;Enjoy+Life)](https://git.io/typing-svg)
 
 ## :monkey_face: :keyboard:  My tools
 <div>
@@ -16,4 +16,4 @@
   <p></p>
 </div>
 
-![pureYao's GitHub stats](https://github-readme-stats.vercel.app/api?username=pureYao&show_icons=true&theme=transparent)
+![pureYao's GitHub stats](https://github-readme-stats.vercel.app/api?username=pureYao&show_icons=true&theme=transparent&title_color=C65D7B&text_color=F68989&icon_color=C65D7B)
