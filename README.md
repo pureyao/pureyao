@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=50&pause=1000&color=FFF8EA&background=FC909F&center=true&vCenter=true&width=1100&height=200&lines=Hello%2C+I'm+pureYao;Enjoy+Code;Enjoy+Life)](https://git.io/typing-svg)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pureYao/pureYao/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pureYao/pureYao/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pureYao/pureYao/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pureyao/pureyao/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pureyao/pureyao/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pureyao/pureyao/output/github-contribution-grid-snake.svg">
 </picture>
 ## :keyboard:  My Tools
 <div>
